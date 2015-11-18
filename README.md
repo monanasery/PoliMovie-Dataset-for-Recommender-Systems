@@ -1,10 +1,9 @@
-# PoliMovie-Dataset-for-Recommender-Systems
+# PoliMovie Dataset for Recommender Systems
 
-# PoliMovie-Dataset
 
 ###SUMMARY
 
-This dataset collected through an online survey application and is still in progress. 
+This dataset is collected through an online survey application and is still in progress. 
 It contains ratings of 334 users on almost 1700 movies and also some features of movies including: genres, casts, directors, movie year, movie production country.
 Data are filtered by ONLY reliable users. (Some strong data consistensy check was performed to recognize random or unreliable answers)
 
